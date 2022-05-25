@@ -1,1 +1,3 @@
 # FragmentMassCollision
+
+After fragmentation loads of fragment ions still collide with each other in terms of their monoisotopic mass. Knowing what aminoacids combined with modifications might help slightly to interpret delta m/z values...
